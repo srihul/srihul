@@ -6,3 +6,4 @@
 - Actively contributing to beginner-friendly and documentation-focused open-source projects
 
 🔗 PR link: https://github.com/firstcontributions/first-contributions/pull/109456
+
